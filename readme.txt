@@ -6,3 +6,6 @@ Git is free software.
 
 Git is niubility
 Git has a mutable index called stage.
+
+
+Create a new brance.
